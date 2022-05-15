@@ -1,8 +1,8 @@
 package main
 
 import (
+	"Conta-Bancaria-Go/contas"
 	"fmt"
-	"github.com/lucio-iot-dev/Conta-Bancaria-Go/contas"
 )
 
 func main() {
